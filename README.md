@@ -13,7 +13,7 @@ This project is a simple web application that showcases an activity card with a 
 
 ## Demo
 
-![ActivityCard Demo](./Activity Card Image.png)
+![ActivityCard Demo](https://github.com/Vishal-Singh-30/Tailwind-CSS-Mini-Project-Card/blob/main/Activity%20Card%20Image.png?raw=true)
 
 ## Features
 
