@@ -13,7 +13,7 @@ This project is a simple web application that showcases an activity card with a 
 
 ## Demo
 
-![ActivityCard Demo](path_to_your_demo_image_or_gif)
+![ActivityCard Demo](./Activity Card Image.png)
 
 ## Features
 
